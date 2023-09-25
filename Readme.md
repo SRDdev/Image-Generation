@@ -21,7 +21,8 @@ This repository explores the world of generative modeling, showcasing both GANs 
 Before diving into the code and experiments, make sure you have the following prerequisites installed:
 
 - Python (3.6+)
-- PyTorch (1.6+)
+- PyTorch (1.6+) (GANs)
+- Keras + Tensorflow (DDIM)
 - NumPy
 - Matplotlib (for visualization, optional)
 - Jupyter Notebook (for running examples, optional)
@@ -77,6 +78,11 @@ In this section, showcase the results and performance of your image generation m
 ## Generated 
 ![Alt text](Pokemon-GANs/output_dir/output.00.png) ![Alt text](Pokemon-GANs/output_dir/output.01.png) ![Alt text](Pokemon-GANs/output_dir/output.02.png) ![Alt text](Pokemon-GANs/output_dir/output.03.png) ![Alt text](Pokemon-GANs/output_dir/output.04.png) ![Alt text](Pokemon-GANs/output_dir/output.05.png) ![Alt text](Pokemon-GANs/output_dir/output.06.png) ![Alt text](Pokemon-GANs/output_dir/output.07.png) ![Alt text](Pokemon-GANs/output_dir/output.08.png) ![Alt text](Pokemon-GANs/output_dir/output.09.png) ![Alt text](Pokemon-GANs/output_dir/output.10.png) ![Alt text](Pokemon-GANs/output_dir/output.11.png) ![Alt text](Pokemon-GANs/output_dir/output.12.png) ![Alt text](Pokemon-GANs/output_dir/output.13.png) ![Alt text](Pokemon-GANs/output_dir/output.14.png) ![Alt text](Pokemon-GANs/output_dir/output.15.png) ![Alt text](Pokemon-GANs/output_dir/output.16.png) ![Alt text](Pokemon-GANs/output_dir/output.17.png) ![Alt text](Pokemon-GANs/output_dir/output.18.png)
 
+## Cite
+
+DDIM : https://keras.io/examples/generative/ddim/ by `András Béres`
+
+GANs : https://github.com/ConorLazarou by `ConorLazarou`
 
 ## Contributing
 
